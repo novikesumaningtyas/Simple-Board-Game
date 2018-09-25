@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Dice()
+comment0.text=\r\n\ Dice()\ -\ \r\n\ This\ constructor\ consist\ of\ default\ value\ for\ each\ attribute,\r\n\ For\ default,\ the\ fields\ sets\ as\ common\ dice\ use\ -\ 6\ sides\ dice\r\n
+comment1.params=maxDiceNumber\ minDiceNumber
+comment1.target=Dice(int,\ int)
+comment1.text=\r\n\ Dice(int\ maxDiceNumber,\ int\ minDiceNumber)\ -\r\n\ User\ sets\ the\ maximum\ and\ minimum\ number\ for\ the\ dice\r\n\ @param\ int\ maxDiceNumber\ for\ dice\ maximum\ value\r\n\ @param\ int\ minDiceNumber\ for\ dice\ minimum\ value\r\n
+comment2.params=
+comment2.target=int\ getMaxDiceValue()
+comment2.text=\r\n\ getMaxDiceValue()\ -\r\n\ Get\ the\ maximum\ value\ from\ the\ dice\ \r\n\ @return\ int\ for\ maximum\ value\ of\ the\ dice\r\n
+comment3.params=
+comment3.target=int\ getMinDiceValue()
+comment3.text=\r\n\ getMinDiceValue()\ -\r\n\ Get\ the\ minimum\ value\ from\ the\ dice\r\n\ @return\ int\ of\ minimum\ value\ of\ the\ dice\r\n
+comment4.params=
+comment4.target=int\ getRolledResult()
+comment4.text=\r\n\ getRolledResult()\ -\r\n\ Get\ the\ random\ number\ from\ the\ minimum\ to\ the\ maximum\ limit\ \r\n\ @return\ int\ value\ of\ the\ value\ of\ roll\ \r\n
+comment5.params=
+comment5.target=void\ printDiceValue()
+comment5.text=\r\n\ printDiceValue()\ -\ \r\n\ Print\ the\ maximum\ and\ minimum\ number\ limit\ of\ the\ dice\r\n
+comment6.params=maximum\ minimum
+comment6.target=void\ setDiceValue(int,\ int)
+comment6.text=\r\n\ setDiceValue(int\ maximum,\ int\ minimum)\ -\r\n\ Set\ new\ value\ for\ maximum\ and\ minimum\ number\ for\ the\ dice\r\n\ @param\ int\ maximum\ for\ maximum\ value\r\n\ @param\ int\ minimum\ for\ minimum\ value\r\n
+numComments=7
