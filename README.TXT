@@ -2,7 +2,7 @@
                                 READ ME DOCUMENT
 ------------------------------------------------------------------------
 
-PROJECT TITLE               : 27897176_A1
+PROJECT TITLE               : Simple Board Game
 PURPOSE OF PROJECT          : To fulfil assignment 1 in Programming foundations in Java course
 VERSION or DATE             : 13 April 2017
 HOW TO START THIS PROJECT   : 
