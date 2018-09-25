@@ -1,7 +1,8 @@
 ------------------------------------------------------------------------
                                 READ ME DOCUMENT
 ------------------------------------------------------------------------
-
+Language                    : Java
+IDE                         : BlueJ
 PROJECT TITLE               : Simple Board Game
 PURPOSE OF PROJECT          : To fulfil assignment 1 in Programming foundations in Java course
 VERSION or DATE             : 13 April 2017
